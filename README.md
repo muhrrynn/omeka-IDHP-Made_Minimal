@@ -1,2 +1,2 @@
-# omeka-IDHP-theme
-Omeka theme created for the Indiana Disability History Project
+# omeka-IDHP
+Omeka theme created for the Indiana Disability History Project<br/><br/>
