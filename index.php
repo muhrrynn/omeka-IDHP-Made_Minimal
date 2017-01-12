@@ -1,1 +1,5 @@
+<?php
+/**
+ * @package Made Minimal
+ */
 
